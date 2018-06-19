@@ -14,5 +14,38 @@
   }, {
     "shopName": "Bakery",
     "floorList": "B2F-2F"
+  }, {
+    "shopName": "Bar",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Betting Shop",
+    "floorList": "B1F-12F"
+  }, {
+    "shopName": "Bookstore",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Boutique",
+    "floorList": "B1F-12F"
+  }, {
+    "shopName": "Bowling Alley",
+    "floorList": "B3F-B1F"
+  }, {
+    "shopName": "Butcher",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Cafe",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Cafetaria",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Cake Shop",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Camera Shop",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Candy Store",
+    "floorList": "1F"
   }
 ]

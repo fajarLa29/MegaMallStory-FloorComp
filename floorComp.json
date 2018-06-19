@@ -1,6 +1,18 @@
 [
-    {
-        "floorName": "Appliance",
-        "floorCheck": "6F-12F"
-    }
+  {
+    "shopName": "Appliances",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Aquarium",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Arcade",
+    "floorList": "B1F-B3F"
+  }, {
+    "shopName": "Art Store",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Bakery",
+    "floorList": "B2F-2F"
+  }
 ]

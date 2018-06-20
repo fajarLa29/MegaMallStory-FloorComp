@@ -47,5 +47,158 @@
   }, {
     "shopName": "Candy Store",
     "floorList": "1F"
+  }, {
+    "shopName": "Casino",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "CD Store",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Chinese Buffet",
+    "floorList": "B3F-1F / 5F-10F / 12F"
+  }, {
+    "shopName": "Cinema",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Clinic",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Clothing Store",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Concert Stage",
+    "floorList": "B3F-B1F"
+  }, {
+    "shopName": "Conv. Store",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Cosmetics",
+    "floorList": "1F"
+  }, {
+    "shopName": "Drug Store",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Exhibit Area",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Fancy Bistro",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Fast Food",
+    "floorList": "B3F-1F / 5F-10F / 12F"
+  }, {
+    "shopName": "Florist",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Fortune Teller",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Furniture",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Game Store",
+    "floorList": "2F-5F"
+  },{
+      "shopName": "Glasses Store",
+      "floorList": "6F-12F"
+  }, {
+    "shopName": "Gourmet Deli",
+    "floorList": "B3F-1F / 5F-10F / 12F"
+  }, {
+    "shopName": "Green Grocers",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Green Grocers",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Hair Salon",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Home Goods",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Horse Racetrack",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Japanese Food",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Jeweler",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Karaoke",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Lingerie Shop",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Locksmith",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Lottery Shop",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Mobile",
+    "floorList": "1F"
+  }, {
+    "shopName": "Museum",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Nail Salon",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Observation Deck",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "PC Store",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Pet Shop",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Planetarium",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Plaza",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Real Estate",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Seafood Store",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Shoe Store",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Spa",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Stationery Store",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Steakhouse",
+    "floorList": "B3F-1F / 5F-10F/ 12F"
+  }, {
+    "shopName": "Stereo",
+    "floorList": "2F-5F"
+  }, {
+    "shopName": "Supermarket",
+    "floorList": "B2F-2F"
+  }, {
+    "shopName": "Sushi Bar",
+    "floorList": "B3F-1F / 5F-10F / 12F"
+  }, {
+    "shopName": "Ticket Outlet",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Toy Store",
+    "floorList": "B1F-2F / 5F-10F"
+  }, {
+    "shopName": "Video Rental",
+    "floorList": "6F-12F"
+  }, {
+    "shopName": "Watch Store",
+    "floorList": "2F-5F"
   }
 ]
